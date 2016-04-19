@@ -10,6 +10,6 @@ for characters in lines:
 	f.write(characters[0:10] + "\n")
 	
 
-f.close 
+f.close() 
 
 
